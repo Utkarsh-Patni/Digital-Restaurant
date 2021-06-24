@@ -1,0 +1,54 @@
+.center
+{
+    align-items: center;
+    padding: 20px;
+}
+.container{
+	padding: 20px;
+	margin: auto;
+}
+
+input{
+    max-width: 60%;
+	padding: 30px;
+	margin: 10px;
+}
+.hl{
+    color: slateblue;
+}
+
+label{
+    font-family: 'Times New Roman', Times, serif;
+    color: royalblue;
+    width:80px;
+    margin: 0;
+    font-size: 16px;
+}
+.select{
+    display:inline;
+    width: 60%;
+}
+
+option, textarea{
+    max-width: 60%;
+}
+
+.form-select {
+    display: inline;
+    width: 60%;
+    padding: .375rem 2.25rem .375rem .75rem;
+    font-size: 1rem;
+}
+
+.button{
+    padding: 5px;
+    background-color: royalblue;
+    color: white;
+    border-radius: 10px;
+}
+.button:hover{
+    background-color: white;
+    color: royalblue;
+    border:2px solid royalblue;
+    border-radius: 10px;
+}
